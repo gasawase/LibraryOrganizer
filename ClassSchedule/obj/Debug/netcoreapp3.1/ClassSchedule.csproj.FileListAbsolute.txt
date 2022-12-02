@@ -1,0 +1,266 @@
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.exe
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.deps.json
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.runtimeconfig.json
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.runtimeconfig.dev.json
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.pdb
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.Views.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.Views.pdb
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.csproj.AssemblyReference.cache
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.AssemblyInfoInputs.cache
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.AssemblyInfo.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.csproj.CoreCompileInputs.cache
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.RazorAssemblyInfo.cache
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.RazorAssemblyInfo.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\staticwebassets\ClassSchedule.StaticWebAssets.Manifest.cache
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\staticwebassets\ClassSchedule.StaticWebAssets.xml
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\scopedcss\bundle\ClassSchedule.styles.css
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.TagHelpers.input.cache
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.TagHelpers.output.cache
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.RazorCoreGenerate.cache
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Class\Add.cshtml.g.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Class\Delete.cshtml.g.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Add.cshtml.g.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Delete.cshtml.g.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.RazorTargetAssemblyInfo.cache
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.RazorTargetAssemblyInfo.cs
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.Views.pdb
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.csproj.CopyComplete
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.dll
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.pdb
+C:\Users\ThePa\Desktop\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.genruntimeconfig.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.exe
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.deps.json
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.runtimeconfig.json
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.runtimeconfig.dev.json
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.pdb
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.Views.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ClassSchedule.Views.pdb
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.csproj.AssemblyReference.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.AssemblyInfoInputs.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.AssemblyInfo.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.csproj.CoreCompileInputs.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.RazorAssemblyInfo.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.RazorAssemblyInfo.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\staticwebassets\ClassSchedule.StaticWebAssets.Manifest.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\staticwebassets\ClassSchedule.StaticWebAssets.xml
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\scopedcss\bundle\ClassSchedule.styles.css
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.TagHelpers.input.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.TagHelpers.output.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.RazorCoreGenerate.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Class\Add.cshtml.g.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Class\Delete.cshtml.g.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Add.cshtml.g.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Delete.cshtml.g.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.RazorTargetAssemblyInfo.cache
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.RazorTargetAssemblyInfo.cs
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.Views.pdb
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.csproj.CopyComplete
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.dll
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.pdb
+C:\Users\gasawase\Downloads\Ch12Ex1ClassSchedule (1)\Ch12Ex1ClassSchedule\Ch12Ex1ClassSchedule\ClassSchedule\obj\Debug\netcoreapp3.1\ClassSchedule.genruntimeconfig.cache

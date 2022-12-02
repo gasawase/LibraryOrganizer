@@ -1,0 +1,58 @@
+﻿@model Title
+
+@{
+    ViewData["BookTitle"] = $"{ViewBag.Operation} Title";
+}
+
+<h1 class="display-4">@ViewBag.Operation Title</h1>
+
+<form asp-action="Add" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="BookTitle"></label>
+        <input asp-for="BookTitle" class="form-control" />
+    </div>
+    @*<div class="form-group">
+            <label asp-for=""></label>
+            <input asp-for="Number" class="form-control" />
+        </div>*@
+    <div class="form-group">
+        <label asp-for="Author"></label>
+        <select asp-for="AuthorId" class="form-control"
+                asp-items="@(new SelectList(ViewBag.Authors,"AuthorId","FullName"))"></select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="IsRead"></label>
+        <input asp-for="IsRead" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Rating"></label>
+        <input asp-for="Rating" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Review"></label>
+        <input asp-for="Review" class="form-control" />
+    </div>
+
+    @*<div class="form-group">
+            <label asp-for="Day"></label>
+            <select asp-for="DayId" class="form-control"
+                    asp-items="@(new SelectList(ViewBag.Days,"DayId","Name"))"></select>
+        </div>*@
+    @*<div class="form-group">
+            <label asp-for="MilitaryTime"></label>
+            <input asp-for="MilitaryTime" class="form-control" />
+        </div>*@
+
+    @if (ViewBag.Operation == "Edit")
+    {
+        <input type="hidden" asp-for="Id" />
+    }
+
+    <button type="submit" class="btn btn-dark">@ViewBag.Operation</button>
+    <a asp-action="LibraryIndex" asp-controller="Library" class="btn btn-outline-dark">Cancel</a>
+</form>

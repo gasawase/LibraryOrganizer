@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Title>
+@{
+    ViewData["Title"] = "Library Organizer";
+
+    // get value of id route segment
+    int id = Convert.ToInt32(ViewContext.RouteData.Values["id"]);
+}
+
+<div class="text-center">
+    <h1 class="display-4">Library</h1>
+
+</div>
+
+<a asp-action="Add" asp-controller="Title" class="ml-3">Add Book</a>
+
+<table class="table">
+    <thead>
+        <tr><th>Title</th><th>Author</th><th>Description</th><th>Read?</th><th>Rating</th><th>Review</th><th></th></tr>
+    </thead>
+    <tbody>
+        @foreach (Title c in Model)
+        {
+        <tr>
+            <td>@c.BookTitle</td>
+            <td>@c.Author.FullName</td>
+            <td>@c.Description</td>
+            <td>@c.IsRead</td>
+            <td>@c.Rating</td>
+            <td>@c.Review</td>
+            <td>
+                <a asp-action="Edit" asp-controller="Title" asp-route-id="@c.Id"
+                    class="btn btn-outline-dark">Edit</a>
+                <a asp-action="Delete" asp-controller="Title" asp-route-id="@c.Id"
+                    class="btn btn-outline-dark">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
